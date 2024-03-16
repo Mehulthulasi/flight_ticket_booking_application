@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">flight</string>
+    <string name="lets_go">lets go</string>
+    <string name="elevate_their_travel_experience">Elevate Their Travel Experience</string>
+    <string name="elevate_your_travel_experience">Elevate Your Travel Experience</string>
+
+    <string-array name="sample_array">
+        <item> Rajiv Gandhi International Airport,Hyderabad, Telangana</item>
+        <item> Sri Guru Ram Dass Jee International Airport,Amritsar, Punjab</item>
+        <item> Lokpriya Gopinath Bordoloi International Airport,Guwahati, Assam</item>
+        <item> Indira Gandhi International Airport, New Delhi, Delhi</item>
+        <item> Cochin International Airport,Kochi, Kerala</item>
+        <item>Trivandrum International Airport,Thiruvananthapuram, Kerala</item>
+        <item> Chhatrapati Shivaji Maharaj International Airport,Mumbai, Maharashtra</item>
+        <item>Chennai International Airport,Chennai, Tamil Nadu</item>
+        <!-- Add more items as needed -->
+    </string-array>
+</resources>
